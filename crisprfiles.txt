@@ -1,0 +1,94 @@
+Acidithiobacillus ferrooxidans ATCC 23270 	 gcf_21_g.fasta 
+Acidithiobacillus ferrooxidans PQ33 	 GCA_001857665_plasmid.fasta 
+Comamonas sp. 	 GCA_009360535.1_plasmid.fasta 
+Rhodoferax antarcticus ANT.BR 	 GCA_001938565.1_plasmid.fasta 
+Comamonas testosteroni SWCO2 	 GCA_003569915.1_g.fasta 
+Thioalkalivibrio sp. ALE16 	 GCF_000381305.1_plasmid.fasta 
+Thioalkalivibrio sp. AKL11 	 GCF_000377845.1_plasmid.fasta 
+Thioalkalivibrio sp. K90mix 	 gca_25_p1.fasta 
+Xanthomonadales bacterium CG02_land_8_20_14_3_00_62_12 	 GCA_002785585.1_plasmid.fasta 
+Geoalkalibacter subterraneus Red1 	 gca_82_p1.fasta 
+Candidatus Saccharibacteria bacterium 	 GCA_002726935.1_g.fasta 
+Zetaproteobacteria bacterium J098 	 GCA_003694935.1_g.fasta 
+Burkholderia sp. Bp9017 	 GCF_003858015.1_plasmid.fasta 
+Burkholderia sp. Bp9016 	 GCF_003857765.1_plasmid.fasta 
+Idiomarina sp. isolate NP27 	 GCA_002729675.1_g.fasta 
+Cupriavidus metallidurans strain NA4 	 GCF_000709045.1_plasmid.fasta 
+Burkholderia vietnamiensis CBMB40 	 GCF_000980955.1_plasmid.fasta 
+Azospira sp. I09 	 gcf91_p1.fasta 
+Pseudomonas aeruginosa 91 	 GCF_004764765.1_plasmid.fasta 
+Pseudomonas sp. 34-62-33 	 GCA_002282595.1_plasmid.fasta 
+Pseudomonas aeruginosa DN1 	 gcf17_p1.fasta 
+Pseudomonas sp. HS-2 	 GCF_004369025.1_plasmid.fasta 
+Pseudomonas sp. ZH-FAD 	 GCF_002803095.1_plasmid.fasta 
+Pseudomonas stutzeri B1SMN1 	 GCF_000416345.1_plasmid.fasta 
+Pseudomonas putida KF715 	 gcf23_p1.fasta 
+Acidovorax wautersii 	 GCA_900113035.1_plasmid.fasta 
+Pseudomonas aeruginosa T3354 	 GCA_003975965.1_plasmid.fasta 
+Pseudomonas aeruginosa S04 90 	 gca098_p1.fasta 
+Pseudomonas aeruginosa AR 0111 	 gca357_p1.fasta 
+Pseudomonas aeruginosa Imp-13 	 gca395_p1.fasta 
+Pseudomonas aeruginosa P26_Wales_1_VIM_2_11_10 	 GCA_001180925.1_plasmid.fasta 
+Pseudomonas aeruginosa P31_Wales_1_VIM_2_11_11 	 GCA_001181025.1_plasmid.fasta 
+Pseudomonas aeruginosa P19_London_7_VIM_2_05_10 	 GCA_001180785.1_plasmid.fasta 
+Pseudomonas aeruginosa  P27_Wales_1_VIM_2_02_11 	 GCA_001180945.1_plasmid.fasta 
+Pseudomonas aeruginosa P44_Wales_1_VIM_2_11_12 	 GCA_001182945.1_plasmid.fasta 
+Pseudomonas aeruginosa P59_Wales_1_VIM_2_09_13 	 GCA_001181885.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE15071 	 GCA_000793505.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE15010 	 GCA_000792855.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE14831 	 GCA_000794175.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE14826 	 GCA_000795345.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE14715 	 GCA_000796725.1_plasmid.fasta 
+Pseudomonas aeruginosa AZPAE14711 	 GCA_000797345.1_plasmid.fasta 
+Pseudomonas aeruginosa BWHPSA028 	 GCA_000481145.1_plasmid.fasta 
+Pseudomonas aeruginosa PS42 	 GCA_000520195.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07172 	 GCA_001449585.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07240 	 GCA_001450045.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07368 	 GCA_001450115.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07259 	 GCA_001453885.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07263 	 GCA_001453015.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07273 	 GCA_001453905.1_plasmid.fasta 
+Pseudomonas aeruginosa WH-SGI-V-07327 	 GCA_001454825.1_plasmid.fasta 
+Pseudomonas aeruginosa 105819 	 GCA_001601745.1_plasmid.fasta 
+Pseudomonas aeruginosa Br993 	 GCA_001756405.1_plasmid.fasta 
+Pseudomonas aeruginosa E429 	 GCA_003698495.1_plasmid.fasta 
+Pseudomonas aeruginosa 560747 	 GCA_001909495.1_plasmid.fasta 
+Pseudomonas aeruginosa ICBDVIM-2 	 GCA_002029925.1_plasmid.fasta 
+Pseudomonas aeruginosa S700_C14_RS 	 GCA_002135765.1_plasmid.fasta 
+Pseudomonas aeruginosa S122_C02_RS 	 GCA_002136245.1_plasmid.fasta 
+Pseudomonas aeruginosa HSV3483 	 GCA_002188625.1_plasmid.fasta 
+Pseudomonas aeruginosa env172 	 GCA_002326435.1_plasmid.fasta 
+Pseudomonas aeruginosa env408 	 GCA_002330505.1_plasmid.fasta 
+Pseudomonas aeruginosa PN586(35)w 	 GCA_003837665.1_plasmid.fasta 
+Pseudomonas aeruginosa ICBBVIM-2 	 GCA_002351435.1_plasmid.fasta 
+Pseudomonas aeruginosa ICBSVIM-2 	 GCA_002351425.1_plasmid.fasta 
+Pseudomonas aeruginosa AR_0241 	 GCA_003324405.1_plasmid.fasta 
+Pseudomonas aeruginosa I1-408 	 GCA_003325715.1_plasmid.fasta 
+Pseudomonas aeruginosa G1-402 	 GCA_003325515.1_plasmid.fasta 
+Pseudomonas aeruginosa PABL064 	 GCA_003411475.1_plasmid.fasta 
+Pseudomonas aeruginosa VET-31 	 GCA_003632965.1_plasmid.fasta 
+Pseudomonas aeruginosa HUM-339 	 GCA_003628905.1_plasmid.fasta 
+Pseudomonas aeruginosa MRSN8915 	 GCA_003968025.1_plasmid.fasta 
+Pseudomonas aeruginosa 153 	 GCA_004350055.1_plasmid.fasta 
+Pseudomonas aeruginosa BWH031 	 GCA_006704785.1_plasmid.fasta 
+Pseudomonas aeruginosa PASP199 	 GCA_006704945.1_plasmid.fasta 
+Pseudomonas aeruginosa PASP174 	 GCA_006704955.1_plasmid.fasta 
+Pseudomonas aeruginosa KCJ3K10 	 GCA_008802475.1_plasmid.fasta 
+Pseudomonas aeruginosa SPA01 	 GCA_001535675..1_plasmid.fasta 
+Pseudomonas aeruginosa B2-305 	 GCA_003325605.1_plasmid.fasta 
+Pseudomonas aeruginosa PA83 	 gca22_p1.fasta 
+Aromatoleum aromaticum EbN1 	 gcf2_p2.fasta 
+Pseudomonas aeruginosa AZPAE14453 	 GCA_000796345.1_plasmid.fasta 
+Pseudomonas aeruginosa S742_C15_BS 	 GCA_002135805.1_plasmid.fasta 
+Pseudomonas aeruginosa P40_Scotland_4_VIM_2_09_12 	 GCA_001181205.1_plasmid.fasta 
+Pusillimonas sp. T2 	 GCA_002236805.1_plasmid.fasta 
+Pseudomonas aeruginosa NCTC13719 	 GCA_900455415.1_plasmid.fasta 
+Pseudomonas aeruginosa NCTC13437 	 GCA_900706955.1_plasmid.fasta 
+Pseudomonas aeruginosa HPA 4 	 GCA_001756585.1_plasmid.fasta 
+Thioalkalivibrio sp. ALE23 	 GCA_000378545.1_plasmid.fasta 
+Pseudomonas sp. MWU12-2323 	 GCA_009295765.1_plasmid.fasta 
+Alteromonas mediterranea RG65 	 gca188_p1.fasta 
+Pseudoalteromonas sp. isolate UBA11876 	 GCA_003541095.1_plasmid.fasta 
+Alteromonas mediterranea RG65 	 gca18_p1.fasta 
+Acidovorax wautersii DSM 27981 	 GCA_900113035.1_plasmid.fasta 
+Gammaproteobacteria bacterium isolate J021 	 GCA_003696665.1_plasmid.fasta 

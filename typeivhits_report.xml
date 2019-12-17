@@ -1,0 +1,1265 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.10.0+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr_v5</BlastOutput_db>
+  <BlastOutput_query-ID>Query_45683</BlastOutput_query-ID>
+  <BlastOutput_query-def>unnamed protein product</BlastOutput_query-def>
+  <BlastOutput_query-len>353</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>1e-10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_45683</Iteration_query-ID>
+  <Iteration_query-def>unnamed protein product</Iteration_query-def>
+  <Iteration_query-len>353</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_012606750.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Acidithiobacillus ferrooxidans] &gt;gb|ACK79128.1| CRISPR-associated protein, Csf2 family [Acidithiobacillus ferrooxidans ATCC 23270]</Hit_def>
+  <Hit_accession>WP_012606750</Hit_accession>
+  <Hit_len>353</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>714.146</Hsp_bit-score>
+      <Hsp_score>1842</Hsp_score>
+      <Hsp_evalue>0</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>353</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>353</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>353</Hsp_identity>
+      <Hsp_positive>353</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>353</Hsp_align-len>
+      <Hsp_qseq>MIKRFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRGAA</Hsp_qseq>
+      <Hsp_hseq>MIKRFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRGAA</Hsp_hseq>
+      <Hsp_midline>MIKRFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRGAA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_071182680.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Acidithiobacillus ferrivorans] &gt;gb|OFA16385.1| hypothetical protein A4U49_07715 [Acidithiobacillus ferrivorans]</Hit_def>
+  <Hit_accession>WP_071182680</Hit_accession>
+  <Hit_len>350</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>403.29</Hsp_bit-score>
+      <Hsp_score>1035</Hsp_score>
+      <Hsp_evalue>5.08992e-137</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>347</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>345</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>208</Hsp_identity>
+      <Hsp_positive>248</Hsp_positive>
+      <Hsp_gaps>5</Hsp_gaps>
+      <Hsp_align-len>343</Hsp_align-len>
+      <Hsp_qseq>AFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREK--GSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAA</Hsp_qseq>
+      <Hsp_hseq>AFIKTTSPLHIAAPGSMRFDPGTGKTSFGGSDVGVPCTGVQRITLFTEEG-ARRYPVIAANNLSGRLRRHAAKLVLEVFKAKGQQVSLSTYATLQCGAATGNPDGEDMTYQEYRAYKNHPYLGLFGGGPKMMRRAFRMQNALPITADTVAISGAQAHPAAAEHQQEKHLTEAWGFRRNDDLRDLVGIHQAEQTVRDFEAAFAHRQALIIEEAKKERVSGSAKTSTKTYSAVEFVLPGVLFGFCVEFSDA-SVAQQGLFLLALDSLAATERLGGLVRNGFGAFSLEDVRIVETTG-EQTGLFNNGRLHREHPAVAERLSAWDADALVLDAHILENLLIPSQPKA</Hsp_hseq>
+      <Hsp_midline>AFI+T SPLHIAAPGSMRFDP TGKT +GG  VGVPCTG+QR  LF E G A+ +PVIAANN+SGRLRRHAA+++LE  + +GQ+VSL+ Y  LQCGA TGNPDG+DMT  EYR Y++ PY GLFGGGPKMMRR   ++NALP+ ADT A  G+ AHP A  H Q  H T+ WGFRRNDDLRDLV IHQA + V +FEA F  RQ  I+ E  +E+  GS+KTS KTYSA+EFV PG LF F +    A S AQ GLFLL LDSLA TERLGG  RNGFG FS +D  ++ + G E    F++GRL+RE P VA  LSAW A +  +DA  L NL+ P +  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>gb|MPS90335.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Comamonas sp.]</Hit_def>
+  <Hit_accession>MPS90335</Hit_accession>
+  <Hit_len>377</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>273.478</Hsp_bit-score>
+      <Hsp_score>698</Hsp_score>
+      <Hsp_evalue>1.16354e-85</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>353</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>372</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>156</Hsp_identity>
+      <Hsp_positive>212</Hsp_positive>
+      <Hsp_gaps>19</Hsp_gaps>
+      <Hsp_align-len>367</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYG-----GQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPH----AHR-HAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDRE----KGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIA---PDRGAAPDRGAA</Hsp_qseq>
+      <Hsp_hseq>RLHAFLRTLSPLHIASPESMTLNTDTMKPDYSIGKGEGKGSYTTCTGVQKLMVYDQEGNLHRVPVIAANNVIGRLRRHAANKVLEVLESKGERVTIQTYSALTCGAVTGNPDGRDVTFTEYRETRAHPYIGLFGGGPRMMRRYVRAFNAVPYMDATQFMFERVKHPYLDEAAHKTRIEAHRLFQYWTFNRNDDLQQLVNVGRAMASIENFEEEIVKRQALILAGKAKDGAQAEDKSKHSTKTWSAFEFVVPGVVFPLSFELD--VTDAQLALFLFSLDAFSKTERIGGHARNGLGQFSLDDVTLVDEDGDVIGGLFNNSALVMEHEFVERLAQAWAAASADLNAADLNRLFSLPEPEAKAAKGRKKA</Hsp_hseq>
+      <Hsp_midline>R  AF+RT SPLHIA+P SM  +  T K  Y      G+     CTG+Q+ +++++ G     PVIAANN+ GRLRRHAA  +LE +  +G++V++  Y+ L CGAVTGNPDG+D+T  EYR+ R  PY GLFGGGP+MMRR +   NA+P    T      + HP+    AH+   +       W F RNDDL+ LVN+ +A   +ENFE E   RQ  IL    ++    +  SK S KT+SA EFV PG +F  S  +   ++DAQ  LFL +LD+ ++TER+GG+ RNG G+FS DD  L+  DG      F++  L  E   V     AW AAS  ++A  L  L +   P+  AA  R  A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>ref|WP_075588190.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Rhodoferax antarcticus] &gt;gb|OLP04485.1| putative CRISPR-associated protein [Rhodoferax antarcticus ANT.BR]</Hit_def>
+  <Hit_accession>WP_075588190</Hit_accession>
+  <Hit_len>404</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>239.58</Hsp_bit-score>
+      <Hsp_score>610</Hsp_score>
+      <Hsp_evalue>4.05795e-72</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>353</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>383</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>144</Hsp_identity>
+      <Hsp_positive>210</Hsp_positive>
+      <Hsp_gaps>34</Hsp_gaps>
+      <Hsp_align-len>378</Hsp_align-len>
+      <Hsp_qseq>AFIRTRSPLHIAAPGSMRFDPATGKTVYG----GQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHA-HRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGE-----------------------VDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILL---TSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRGAA</Hsp_qseq>
+      <Hsp_hseq>AILTTLSPLHIASPESFRYD-INNSTGYGRVKNGTKGGIACAGIQRRHFSGVDGVPFGLPVIAANNVAGRLRRQASKIVLDLLRKKNQRITLATYAALTCGAITGIPDSRDLTFAEYKDSSNHPLIGLLGGGPRMLRRRMQVLDALPVMQVLREGGYSVAHPNSTGRETNASNITYGTAFKRGDDISSLLDVDRMADTVEDFENAFFARQKLILEDKAKKDADDAAKKEPKTVEPDDKNKELEEKSSRYSTKAWSAFEFVAPGVDFDFTINLV-DVTDAQIGLFLLALNGLSKT-HLGGQSRNGLGRFKFNDVIIVDKTNGDNNASEPIFNNNDLMSNHEAIAAYIAAWKTATEGITASKMDEIMRPPVGESDDEKKA</Hsp_hseq>
+      <Hsp_midline>A + T SPLHIA+P S R+D     T YG    G   G+ C GIQR       G     PVIAANN++GRLRR A++I+L+ +R + Q+++LA Y  L CGA+TG PD +D+T  EY+   + P  GL GGGP+M+RR ++V +ALPV         S+AHP++  R     + T    F+R DD+  L+++ + A+ VE+FE  F ARQ+ IL +                        + E+ SS+ S K +SA EFV PG  FDF+I +   ++DAQ GLFLL L+ L++T  LGG  RNG GRF F+D I++     D    +  F++  L      +A  ++AW  A++ I A+ +  ++ P  G + D   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|RGE40942.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Comamonas testosteroni]</Hit_def>
+  <Hit_accession>RGE40942</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>194.512</Hsp_bit-score>
+      <Hsp_score>493</Hsp_score>
+      <Hsp_evalue>5.57498e-55</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>353</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>376</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>135</Hsp_identity>
+      <Hsp_positive>192</Hsp_positive>
+      <Hsp_gaps>26</Hsp_gaps>
+      <Hsp_align-len>372</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSV-----GVPCTGIQREVLF---NEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLE-VENALPVHADTTANLGSMAHP------HAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGE--VDREKGSS-KTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKE-HQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAP---DRGAAPDRGAA</Hsp_qseq>
+      <Hsp_hseq>RLHTFLRTLTPLHISSGQTGTFD-VTNNRVYMGERIISEGSATTCALVQTIAYLAPGEESGVA-NVPVIMANNIMGRLRRHAAALVLGIVQSKGQTISPGTYSALACGASSGNPDSSVPTFDQLRTSMAHPYLGLFGGGPKLMRRYARMLNNPVPYTSVTAQSFKGIEHPNFDPLIHAVPISTEKFLTRGVLRNRMDDLTSLSDIALASATITDFENAIRERASAIAGNKAAKAETGTSERQTTRSFTALQYVIPNVIFPLSWSLE--VTPAQLGLFLLALDSFAADEELGGQGRNGFGRFNLFDMVLTDNTNQPIASSLLLDNKLNRDLPEVAQAIAAWEEAALDITGNSLNDLFANEVIDKSAGKGKRAA</Hsp_hseq>
+      <Hsp_midline>R   F+RT +PLHI++  +  FD  T   VY G+ +        C  +Q         E+G A + PVI ANNI GRLRRHAA ++L  ++ +GQ +S   Y+ L CGA +GNPD    T  + R     PY GLFGGGPK+MRR    + N +P  + T  +   + HP      HA   +     T      R DDL  L +I  A+  + +FE     R  AI G      E G+S + + ++++AL++V P  +F  S  ++  ++ AQ GLFLL LDS A  E LGG GRNGFGRF+  D +L  +  +        D +LNR+ P VA  ++AW  A+  I   +L +L A    D+ A   + AA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_019584538.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Thioalkalivibrio sp. ALE16]</Hit_def>
+  <Hit_accession>WP_019584538</Hit_accession>
+  <Hit_len>349</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>139.428</Hsp_bit-score>
+      <Hsp_score>350</Hsp_score>
+      <Hsp_evalue>2.48053e-34</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>339</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>342</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>117</Hsp_identity>
+      <Hsp_positive>176</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>TRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFN---EAGEA--KHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPD-GKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGD--------HFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTS--VKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAET-ERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAF-HDG---RLNREDPLVAHTLSAWHAASQKIDATALANL</Hsp_qseq>
+      <Hsp_hseq>TTSPLHIT-------DASQDRRIESGNST-MPVTGTQTLTVVSRDPDSGETHTRRVPVIPSNSIRGRIRRAAADILMEALKAKGEKLTLPAYHTVCAGTADGRPDKGSSVSLSALHQRREHPFIGLFGGGPEMVESRFLTDTAWALVPETVA---SIDVPAACEDAVVDPMGREKRLPLTQVIYFRRMDDILQFSD-PKAAERIEDYE---TAAQEWLDSQRTRSNGDEERGDRVQGWNATEIVLAGMPFSFRIGTTTSSSEAQDGLLLAALERFVERFPNLGGWKVKGFGRYDL-SSIRMSCDGEDAGLVFTRDGGQLRLNRDNPAVAGRLDAW-ASYANSDALTAAEI</Hsp_hseq>
+      <Hsp_midline>T SPLHI        D +  + +  G S  +P TG Q   + +   ++GE   +  PVI +N+I GR+RR AA I++EA++ +G+K++L  Y+ +  G   G PD G  ++L    Q R+ P+ GLFGGGP+M+      + A  +  +T A   S+  P A   A  D          T V  FRR DD+    +  +AAE +E++E    A Q+ +  +  R  G  +    V+ ++A E V  G  F F I    + S+AQ GL L  L+   E    LGG+   GFGR+    +I ++ DG++    F  DG   RLNR++P VA  L AW A+    DA   A +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_013006553.1|</Hit_id>
+  <Hit_def>MULTISPECIES: type IV CRISPR-associated protein Csf2 [unclassified Thioalkalivibrio] &gt;gb|ADC73188.1| CRISPR-associated protein, Csf2 family [Thioalkalivibrio sp. K90mix]</Hit_def>
+  <Hit_accession>WP_013006553</Hit_accession>
+  <Hit_len>349</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>135.961</Hsp_bit-score>
+      <Hsp_score>341</Hsp_score>
+      <Hsp_evalue>4.93691e-33</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>339</Hsp_query-to>
+      <Hsp_hit-from>3</Hsp_hit-from>
+      <Hsp_hit-to>342</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>114</Hsp_identity>
+      <Hsp_positive>175</Hsp_positive>
+      <Hsp_gaps>38</Hsp_gaps>
+      <Hsp_align-len>357</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFN---EAGEA--KHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPD-GKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGD--------HFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTS--VKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAET-ERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAF-HDG---RLNREDPLVAHTLSAWHAASQKIDATALANL</Hsp_qseq>
+      <Hsp_hseq>RLEGTLYTTSPLHIT-------DASQDRRIESGNST-MPVTGTQTLTVVSRDPDSGETHTRRVPVIPSNSIRGRIRRAGADVLMEALKAKGENLTLPAYHTVCAGTADGRPDKGSSVSLSALHQRREHPFIGLFGGGPEMVESRFLTDTAWALVPETVA---SIDVPAACEDAVVDPMGREKRLPLTQVIYFRRMDDILQFSD-PKAAERIEDYE---TAAQEWLDNQRTRSNGDEERGDRVQGWNATEIVLAGMPFSFRIGTTTSSSEVQDGLLLAALERFVERFPNLGGWKVKGFGRYDL-SSIRMSCDGEDAGLVFTRDGGQLRLNRDNPAVAERLDAW-ASYANSDALTAAEI</Hsp_hseq>
+      <Hsp_midline>R    + T SPLHI        D +  + +  G S  +P TG Q   + +   ++GE   +  PVI +N+I GR+RR  A +++EA++ +G+ ++L  Y+ +  G   G PD G  ++L    Q R+ P+ GLFGGGP+M+      + A  +  +T A   S+  P A   A  D          T V  FRR DD+    +  +AAE +E++E    A Q+ +  +  R  G  +    V+ ++A E V  G  F F I    + S+ Q GL L  L+   E    LGG+   GFGR+    +I ++ DG++    F  DG   RLNR++P VA  L AW A+    DA   A +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>gb|PIV35213.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Xanthomonadales bacterium CG02_land_8_20_14_3_00_62_12]</Hit_def>
+  <Hit_accession>PIV35213</Hit_accession>
+  <Hit_len>380</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>134.035</Hsp_bit-score>
+      <Hsp_score>336</Hsp_score>
+      <Hsp_evalue>4.67884e-32</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>346</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>355</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>109</Hsp_identity>
+      <Hsp_positive>165</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>363</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVL--FNEAG-EAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGE------VDREKGSSKTSVKT-------YSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAI---------LLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGA</Hsp_qseq>
+      <Hsp_hseq>LRTLSPLSVAVPGDRRVNLAGNF-----DSKGFPCTQIARMELPGNTEMGVDPVRLPVIPANTLRGGLRRSGADLIEQSLIARGEKISLSAFHSLRSGAPFGHPDKGNPNLAEIREAQTFAHLGVFGGGPRMLTGALRVDTGMPVTA-AALDRGLVPQSSQSESVSGRLDAVLW-LRRADDAATFINHDMAQNVIRDYANTLDAWQVLIGPERHVDDPTDDDSSEKKAATKEIFRGIAGFNAYEVVLPGVPFAVRYDLD-SDHEANAGFLMLALEAFANKQILGGMKRLGYGRFALDLTVTFPDGSSTPLLTRSESRHS-------LNAEHPMIAQLVAAATKWLASLTSSEIERLLAPSETA</Hsp_hseq>
+      <Hsp_midline>+RT SPL +A PG  R + A         S G PCT I R  L    E G +    PVI AN + G LRR  A +I +++  RG+K+SL+ ++ L+ GA  G+PD  +  L E R+ +   + G+FGGGP+M+   L V+  +PV A    + G +          G     +W  RR DD    +N   A  V+ ++    +A Q  I  E       D +    K + K        ++A E V PG  F     +  +  +A AG  +L L++ A  + LGG  R G+GRF+ D  +         LLT     H        LN E P++A  ++A       + ++ +  L+AP   A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_040202870.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Geoalkalibacter subterraneus] &gt;gb|AJF08228.1| hypothetical protein GSUB_17230 [Geoalkalibacter subterraneus]</Hit_def>
+  <Hit_accession>WP_040202870</Hit_accession>
+  <Hit_len>374</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>121.709</Hsp_bit-score>
+      <Hsp_score>304</Hsp_score>
+      <Hsp_evalue>1.49571e-27</Hsp_evalue>
+      <Hsp_query-from>42</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>46</Hsp_hit-from>
+      <Hsp_hit-to>349</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>96</Hsp_identity>
+      <Hsp_positive>154</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>312</Hsp_align-len>
+      <Hsp_qseq>PCTGIQR----EVLFNEAGEAK----HFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNA--RQQAILGEVDREKGSSKTS-------VKTYSALEFVRPGTLFDFSILMKWAISD-AQAGLFLLTLDSLAETERLGGYGRNGFGRFSFD-DAILLTSDGKEHQDAFHDGRLNREDPLV-AHTLSAWHAASQKIDA</Hsp_qseq>
+      <Hsp_hseq>PCTSTQKYGIVETLPDDQGEMRTQITRVPIFPANGLRGQLRRAAADMIASHLVRKGEKLDLRAFHILNCGASTGSPEGVVPPVSMVQEWAAHPYFGLYGGGPFLMSSGFRID-TMWMKCRPTVEIGMVAPDSDALTLEPWQATQVVMFKRVDDVIQFRNPF-AENLILDYEESVNAWLKHREGAGEA-RKKAKEENSGEKIQAKIDSWSFFEMVLPGARFDFNTTIHSPLANQGHVGLLVKSLESLINKQALGGWSRNGFGRFAANLDFVGEDVDGKRVQ-----GRLIHFDPTTRQHILGDHDALNESIAA</Hsp_hseq>
+      <Hsp_midline>PCT  Q+    E L ++ GE +      P+  AN + G+LRR AA +I   +  +G+K+ L  +++L CGA TG+P+G    +   +++   PYFGL+GGGP +M     ++  + +    T  +G +A        +    T V  F+R DD+    N   A  ++ ++E   NA  + +   GE  R+K   + S       + ++S  E V PG  FDF+  +   +++    GL + +L+SL   + LGG+ RNGFGRF+ + D +    DGK  Q     GRL   DP    H L    A ++ I A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>gb|MBQ68989.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Candidatus Saccharibacteria bacterium]</Hit_def>
+  <Hit_accession>MBQ68989</Hit_accession>
+  <Hit_len>392</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>116.316</Hsp_bit-score>
+      <Hsp_score>290</Hsp_score>
+      <Hsp_evalue>1.81991e-25</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>307</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>28</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHI--AAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQ---------GDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEV------------DREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDA</Hsp_qseq>
+      <Hsp_hseq>IRTKTKIHVTSAIDSSTKIN-ADGQI--GTEDARIPLARTYRTVAFTPGGGRVEVPFVPGNSIVGRMRRAAATMIAKSLRAREQQITRTTYRGISCGAADPKPEMNGLQVDEFERYLKDPHIGLFGGGKRLYEGGFKMFDLLPV-TMATIEAGMVPAEYAEHMAMLSAGEDGRPAIRVTGIDVLHRRDDLLDGAS-EEVVSTISDYEGLFGDMKQEAARKVQAAAKRAGVKLGEEEKAADRVSMSQQSAREYIVPGVAMHFKAALKKRVTKEQLGIWVLSLQEVFNTNEFGGVSHLGYGELNLADA</Hsp_hseq>
+      <Hsp_midline>IRT++ +H+  A   S + + A G+   G +   +P     R V F   G     P +  N+I GR+RR AA +I +++R R Q+++   Y  + CGA    P+   + + E+ +Y  DP+ GLFGGG ++     ++ + LPV    T   G +   +A   A              T +    R DDL D  +  +    + ++E  F   +Q    +V            + EK + + S+   SA E++ PG    F   +K  ++  Q G+++L+L  +  T   GG    G+G  +  DA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>gb|RME80669.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2, partial [Zetaproteobacteria bacterium]</Hit_def>
+  <Hit_accession>RME80669</Hit_accession>
+  <Hit_len>277</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>112.079</Hsp_bit-score>
+      <Hsp_score>279</Hsp_score>
+      <Hsp_evalue>8.81331e-25</Hsp_evalue>
+      <Hsp_query-from>5</Hsp_query-from>
+      <Hsp_query-to>273</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>276</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>140</Hsp_positive>
+      <Hsp_gaps>18</Hsp_gaps>
+      <Hsp_align-len>280</Hsp_align-len>
+      <Hsp_qseq>FSAFIRTRSPLHIAA-PGSMRFDPATGKTVYGGQS-VGVP--CTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAIL-GEVDREKG------SSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETE</Hsp_qseq>
+      <Hsp_hseq>FEGEIRTISPLHIASGDGNIRYDFATGRRLYGGKGGAGHPLACTQAIEVALPNEEGHTARIPIIHANTLRGRIRRQAASIVADALAEKGEKIEFDTLLRMLSGTSSGRPNKTPIPVDMMQEIIAHPFAGLFGGGERMLPSRLVVHAAIGAF-EEAAEIGMIQHA-TMQIAPHQAFAVIPIRRIHDLMHDPVRIQNDYERVVR---EFLDRATEILQEEAERQRARKNGGESASRMIESMNALEFVIPGVRFHWRV--ETSGDSHHAGLLLMSLEKLAHAQ</Hsp_hseq>
+      <Hsp_midline>F   IRT SPLHIA+  G++R+D ATG+ +YGG+   G P  CT      L NE G     P+I AN + GR+RR AA I+ +A+  +G+K+       +  G  +G P+   + +   ++    P+ GLFGGG +M+   L V  A+    +  A +G + H    + A    F  +   R +D + D V I    E V     EF  R   IL  E +R++       S+   +++ +ALEFV PG  F + +  + +     AGL L++L+ LA  +</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|WP_124825525.1|</Hit_id>
+  <Hit_def>MULTISPECIES: type IV CRISPR-associated protein Csf2 [unclassified Burkholderia] &gt;gb|RQZ31661.1| type IV CRISPR-associated protein Csf2 [Burkholderia sp. Bp9017] &gt;gb|RQZ37792.1| type IV CRISPR-associated protein Csf2 [Burkholderia sp. Bp9016]</Hit_def>
+  <Hit_accession>WP_124825525</Hit_accession>
+  <Hit_len>371</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>111.309</Hsp_bit-score>
+      <Hsp_score>277</Hsp_score>
+      <Hsp_evalue>8.78733e-24</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>302</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>320</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>95</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRH--------------AQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEV-----DREKGSSK----------TSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQ</Hsp_qseq>
+      <Hsp_hseq>RITGIFQLTHPLHCATPD----ESLKGSMVGVEASTATPT--MQQRILTRRGME--RIPYFPGNDLRGRLRRKAASIVLDTITA-SRKVKLELYAGLNCGAVSGKPEN-DVTIEEVLRARDNVYMGLFGGGTRILRSRFRVADLLPVIA-STIEVGAVPRQYGDETDTTWLPKDFTGESPLRGDQLLVVRHLLRVDDVMRVLRPDELEKYIENATAAVEGYQTDILQKRVQRGDDKKKAQNKEIASKDIQKKSDVGNMMSIQAIAAGTPMYFHLDLADDVSDAHVGLMLLALRALVREQALGGWVRTGLGQFG--ARLSLERDGESFQ</Hsp_hseq>
+      <Hsp_midline>R +   +   PLH A P     +   G  V    S   P   +Q+ +L     E    P    N++ GRLRR AA I+L+ I    +KV L +Y  L CGAV+G P+  D+T+ E  + RD+ Y GLFGGG +++R    V + LPV A +T  +G++   +                   +GD    V    R DD+  ++   +  + +EN  A     Q  IL +      D++K  +K          + V    +++ +  GT   F + +   +SDA  GL LL L +L   + LGG+ R G G+F     + L  DG+  Q</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>111.309</Hsp_bit-score>
+      <Hsp_score>277</Hsp_score>
+      <Hsp_evalue>8.78733e-24</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>302</Hsp_query-to>
+      <Hsp_hit-from>6</Hsp_hit-from>
+      <Hsp_hit-to>320</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>95</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>328</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRH--------------AQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEV-----DREKGSSK----------TSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQ</Hsp_qseq>
+      <Hsp_hseq>RITGIFQLTHPLHCATPD----ESLKGSMVGVEASTATPT--MQQRILTRRGME--RIPYFPGNDLRGRLRRKAASIVLDTITA-SRKVKLELYAGLNCGAVSGKPEN-DVTIEEVLRARDNVYMGLFGGGTRILRSRFRVADLLPVIA-STIEVGAVPRQYGDETDTTWLPKDFTGESPLRGDQLLVVRHLLRVDDVMRVLRPDELEKYIENATAAVEGYQTDILQKRVQRGDDKKKAQNKEIASKDIQKKSDVGNMMSIQAIAAGTPMYFHLDLADDVSDAHVGLMLLALRALVREQALGGWVRTGLGQFG--ARLSLERDGESFQ</Hsp_hseq>
+      <Hsp_midline>R +   +   PLH A P     +   G  V    S   P   +Q+ +L     E    P    N++ GRLRR AA I+L+ I    +KV L +Y  L CGAV+G P+  D+T+ E  + RD+ Y GLFGGG +++R    V + LPV A +T  +G++   +                   +GD    V    R DD+  ++   +  + +EN  A     Q  IL +      D++K  +K          + V    +++ +  GT   F + +   +SDA  GL LL L +L   + LGG+ R G G+F     + L  DG+  Q</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>gb|MBT42585.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Idiomarina sp.]</Hit_def>
+  <Hit_accession>MBT42585</Hit_accession>
+  <Hit_len>360</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>109.383</Hsp_bit-score>
+      <Hsp_score>272</Hsp_score>
+      <Hsp_evalue>3.72632e-23</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>299</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>330</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>94</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>330</Hsp_align-len>
+      <Hsp_qseq>KRFSAFIRTRSPLHIA--APGSMRFDPATGKTVYGGQSVGVPCTGIQR-------EVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMM------------RRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFR-------RNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSF-----DDAILLTSDGK</Hsp_qseq>
+      <Hsp_hseq>KVISLHLHSVSPIHIADASAGESHVDPKTGDIRAGKFPDTLSVTRVERKPVLVPKEISGDSDDAVIQFPYIKANNMVGRLRRFAQDAINETLKEDGERVSDKTYRGLSCGAVSGTPTGVAPTLSEYRKAREHFYLGLFGGGNGMFASGMSFGDLNVKHKLLTATGVLPASIEGAANVPVAQLTYPISMVRRDRMLELTDFNIEHVVKGGNEAIEQWLDLVVAAS-KEKEGLEGGEKADAKGGNL---KEGRRQKLVNFVAYEAVLAGLGYYGKIVLRPDVTDAHVGLLLESLSRFAQANAIGGKSAKGFGRFNLTVKEGDNVLLQSNDGE</Hsp_hseq>
+      <Hsp_midline>K  S  + + SP+HIA  + G    DP TG    G     +  T ++R       E+  +       FP I ANN+ GRLRR A   I E ++  G++VS   Y  L CGAV+G P G   TL EYR+ R+  Y GLFGGG  M              + L     LP   +  AN+      +     + D   ++  F         N+ +   +++  AA   E    E   +  A  G +   K   +  +  + A E V  G  +   I+++  ++DA  GL L +L   A+   +GG    GFGRF+      D+ +L ++DG+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>ref|WP_029308491.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Cupriavidus metallidurans]</Hit_def>
+  <Hit_accession>WP_029308491</Hit_accession>
+  <Hit_len>368</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>105.145</Hsp_bit-score>
+      <Hsp_score>261</Hsp_score>
+      <Hsp_evalue>1.39694e-21</Hsp_evalue>
+      <Hsp_query-from>10</Hsp_query-from>
+      <Hsp_query-to>299</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>313</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>90</Hsp_identity>
+      <Hsp_positive>147</Hsp_positive>
+      <Hsp_gaps>52</Hsp_gaps>
+      <Hsp_align-len>322</Hsp_align-len>
+      <Hsp_qseq>RTRSPLHIAAPG-SMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRH----------AQGDHFTDVWGFRRN------DDLRDLVN-------IHQAAEVVENFEAEF--------NARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGK</Hsp_qseq>
+      <Hsp_hseq>RLRTPLHCASPDDSLANKPAETPTV---------------QMRIVTANGERRIPFFPGNDLRGRLRRKAAKIVLDHVCATAQ-VSPQLYAGLCAGAVSAQPES-DLSIEEALRAGRNVYMGLFGGGTRLIRSLYSCQDLVPVLRETV-DIGMVPAQYVENDGKNFLPSRMTSEGEKALEGWSLVQSRQIIRVDDVLRVTNPEDMQVYIANVVETVSDLQNETVAQRQRRKNSKAQAEAGQIKQSEVEKKTDLGNMPSFQYIAAGTPMYFRLDFFDEISDAQVGLMLLALRDLVAEQRLGGWVRAGLGRFGAD--LSLTRDGE</Hsp_hseq>
+      <Hsp_midline>R R+PLH A+P  S+   PA   TV               ++    A   +  P    N++ GRLRR AA+I+L+ +    Q VS  +Y  L  GAV+  P+  D+++ E  +   + Y GLFGGG +++R     ++ +PV  +T  ++G +   +              ++G+   + W   ++      DD+  + N       I    E V + + E         N++ QA  G++ + +   KT +    + +++  GT   F +     ISDAQ GL LL L  L   +RLGG+ R G GRF  D  + LT DG+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>ref|WP_080957767.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Burkholderia vietnamiensis]</Hit_def>
+  <Hit_accession>WP_080957767</Hit_accession>
+  <Hit_len>379</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>4.15584e-21</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>287</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>313</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYG-GQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPV-------------HADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAIL-GEVDREKGSSKTSVKTYSA--------------LEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFS</Hsp_qseq>
+      <Hsp_hseq>RITGVFQLTRPLHCASP-----DESLKSTMDGTAGDTGTPTA--QQRIMTR--GGMQRVPYFPGNDLRGRLRRKAAAIVLDHITA-SKKIKLELYAGLNCGAVSGKPEN-DVTVEEVLRARENVYMGLFGGGTRILRSRFRVADLLPIIGATIDSGAVPKQYGDETATTWLPKNWDGTAPLRGDQLLIQQHLLRVDDVVRVLRPDELEQYVEDAQAAVAAYQTGVLEGRVKRREDKKKAQNKEIAGSDVQKKADVGNMMTIQAIAGGTPMYFQLDFLDDASDAHVGLMLLALQALVREQALGGWVRTGLGQFA</Hsp_hseq>
+      <Hsp_midline>R +   +   PLH A+P     D +   T+ G     G P    Q+ ++    G  +  P    N++ GRLRR AA I+L+ I    +K+ L +Y  L CGAV+G P+  D+T+ E  + R++ Y GLFGGG +++R    V + LP+             + D TA      +       +GD         R DD+  ++   +  + VE+ +A   A Q  +L G V R +   K   K  +               ++ +  GT   F +      SDA  GL LL L +L   + LGG+ R G G+F+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>103.99</Hsp_bit-score>
+      <Hsp_score>258</Hsp_score>
+      <Hsp_evalue>4.15584e-21</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>287</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>315</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>40</Hsp_gaps>
+      <Hsp_align-len>313</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYG-GQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPV-------------HADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAIL-GEVDREKGSSKTSVKTYSA--------------LEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFS</Hsp_qseq>
+      <Hsp_hseq>RITGVFQLTRPLHCASP-----DESLKSTMDGTAGDTGTPTA--QQRIMTR--GGMQRVPYFPGNDLRGRLRRKAAAIVLDHITA-SKKIKLELYAGLNCGAVSGKPEN-DVTVEEVLRARENVYMGLFGGGTRILRSRFRVADLLPIIGATIDSGAVPKQYGDETATTWLPKNWDGTAPLRGDQLLIQQHLLRVDDVVRVLRPDELEQYVEDAQAAVAAYQTGVLEGRVKRREDKKKAQNKEIAGSDVQKKADVGNMMTIQAIAGGTPMYFQLDFLDDASDAHVGLMLLALQALVREQALGGWVRTGLGQFA</Hsp_hseq>
+      <Hsp_midline>R +   +   PLH A+P     D +   T+ G     G P    Q+ ++    G  +  P    N++ GRLRR AA I+L+ I    +K+ L +Y  L CGAV+G P+  D+T+ E  + R++ Y GLFGGG +++R    V + LP+             + D TA      +       +GD         R DD+  ++   +  + VE+ +A   A Q  +L G V R +   K   K  +               ++ +  GT   F +      SDA  GL LL L +L   + LGG+ R G G+F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>gb|MBT41134.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Idiomarina sp.]</Hit_def>
+  <Hit_accession>MBT41134</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>102.449</Hsp_bit-score>
+      <Hsp_score>254</Hsp_score>
+      <Hsp_evalue>9.73783e-21</Hsp_evalue>
+      <Hsp_query-from>46</Hsp_query-from>
+      <Hsp_query-to>326</Hsp_query-to>
+      <Hsp_hit-from>56</Hsp_hit-from>
+      <Hsp_hit-to>347</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>125</Hsp_positive>
+      <Hsp_gaps>11</Hsp_gaps>
+      <Hsp_align-len>292</Hsp_align-len>
+      <Hsp_qseq>IQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDR---EKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSF-----DDAILLTSDGKEHQDA---FHDGRLNREDPLVAHTLSAWHA</Hsp_qseq>
+      <Hsp_hseq>VPKEISGADSDSVILFPYIKANNMVGRLRRFAQDAINEVLIERGETISDKAYRGLSCGATSGTPTGIEPTLKEHRDARAHFYMGLFGGGSGMFSSGMSFGDFDVKHKYLISAGVLPAETRGAIDVNPHHLTHPVVINRRDRMNELSDFHIEQVLKGGEEAIHDWRSEAARAAQDKKEEKEGAKRLTLRNLVAYEAAPAGLSYQSKVVFNPFIEDAQVGLLLEALTRFARANAIGGRTAKGLGRFNLTVKEGDEVLLQSVDGEVIKSAGGKYTESLVNELDNLDVELLESFFA</Hsp_hseq>
+      <Hsp_midline>+ +E+   ++     FP I ANN+ GRLRR A   I E +  RG+ +S   Y  L CGA +G P G + TL E+R  R   Y GLFGGG  M    +   +    H    +     A           H T      R D + +L + H    +    EA  + R +A     D+   ++G+ + +++   A E    G  +   ++    I DAQ GL L  L   A    +GG    G GRF+      D+ +L + DG+  + A   + +  +N  D L    L ++ A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|WP_138519266.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Limnobacter sp. LZ-4]</Hit_def>
+  <Hit_accession>WP_138519266</Hit_accession>
+  <Hit_len>387</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>100.138</Hsp_bit-score>
+      <Hsp_score>248</Hsp_score>
+      <Hsp_evalue>1.05957e-19</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>291</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>307</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>80</Hsp_identity>
+      <Hsp_positive>135</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>308</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHIAAPGSMRFDPATGKTVYGGQ----SVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHR---HAQGDH------FTDVWGFRRNDDLRD-------LVNIHQAAEVVENFEAEFNARQQAI-----LGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDA</Hsp_qseq>
+      <Hsp_hseq>VRTKGKIHVTSA----LDEAT-KINSAGQINSPDARIPLSRIYRTPAFTSNGRIE-IPFIPANSWVGALRRAVTSAMAESLIARNEQITRTTYRGLSCGAADAKPEVGSLLVDEFESYLKHPFIGLFGGGKRLYESGYKIFDMIPI-MQATVDAGMVPADYADQVVLLSGGDNVKMASRVSAIDIIHRRDDLLEGRASEEIVASISDYDELKSDMYQEVARKTQAAALRAGVKKADDEKTESRASMSQQSGREYISPGVPMYFKTVLKKRVTDEQFGVFLLGLMEVLNTNEFGGASHLGFGELNLADA</Hsp_hseq>
+      <Hsp_midline>+RT+  +H+ +      D AT K    GQ       +P + I R   F   G  +  P I AN+  G LRR     + E++  R ++++   Y  L CGA    P+   + + E+  Y   P+ GLFGGG ++     ++ + +P+    T + G +   +A +    + GD+       + +    R DDL +       + +I    E+  +   E   + QA      + + D EK  S+ S+   S  E++ PG    F  ++K  ++D Q G+FLL L  +  T   GG    GFG  +  DA</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>gb|KKI36123.1|</Hit_id>
+  <Hit_def>hypothetical protein VI03_25465 [Burkholderia vietnamiensis]</Hit_def>
+  <Hit_accession>KKI36123</Hit_accession>
+  <Hit_len>320</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.9821</Hsp_bit-score>
+      <Hsp_score>245</Hsp_score>
+      <Hsp_evalue>1.15631e-19</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>287</Hsp_query-to>
+      <Hsp_hit-from>5</Hsp_hit-from>
+      <Hsp_hit-to>256</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>116</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>254</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPV-------------HADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAIL-GEVDREKGSSKTSVKTYSA--------------LEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFS</Hsp_qseq>
+      <Hsp_hseq>PYFPGNDLRGRLRRKAAAIVLDHITA-SKKIKLELYAGLNCGAVSGKPEN-DVTVEEVLRARENVYMGLFGGGTRILRSRFRVADLLPIIGATIDSGAVPKQYGDETATTWLPKNWDGTAPLRGDQLLIQQHLLRVDDVVRVLRPDELEQYVEDAQAAVAAYQTGVLEGRVKRREDKKKAQNKEIAGSDVQKKADVGNMMTIQAIAGGTPMYFQLDFLDDASDAHVGLMLLALQALVREQALGGWVRTGLGQFA</Hsp_hseq>
+      <Hsp_midline>P    N++ GRLRR AA I+L+ I    +K+ L +Y  L CGAV+G P+  D+T+ E  + R++ Y GLFGGG +++R    V + LP+             + D TA      +       +GD         R DD+  ++   +  + VE+ +A   A Q  +L G V R +   K   K  +               ++ +  GT   F +      SDA  GL LL L +L   + LGG+ R G G+F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|WP_152090938.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Azospira sp. I09] &gt;dbj|BBN90466.1| hypothetical protein AZSP09_34890 [Azospira sp. I09]</Hit_def>
+  <Hit_accession>WP_152090938</Hit_accession>
+  <Hit_len>363</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>98.2117</Hsp_bit-score>
+      <Hsp_score>243</Hsp_score>
+      <Hsp_evalue>3.8811e-19</Hsp_evalue>
+      <Hsp_query-from>56</Hsp_query-from>
+      <Hsp_query-to>297</Hsp_query-to>
+      <Hsp_hit-from>40</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>112</Hsp_positive>
+      <Hsp_gaps>21</Hsp_gaps>
+      <Hsp_align-len>263</Hsp_align-len>
+      <Hsp_qseq>GEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTAN------LGSMAHPHAHRHAQGDHFTDVWGFR------RNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREK--GSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFG-------RFSFDDAILLTSD</Hsp_qseq>
+      <Hsp_hseq>GRLYDLPIYPANGFRGGLRRAAAARVVEALSAKEGPVPGDLYLGLTCGASSASPDQTPKTVEEIIRGRGNVYMGLFGGGARLLSSMYRVSDMLPVLQATIETGAVPDYLAELVMPKFQKEGEPAKHAGPWEVMSERTSIRVDDLYRVMRPEEIKAYVKNPLETVAAHQDGVLANKEGRKTDGDTKTDVSNMMGIETVAPGVPFYFCIDLDKDVTPGQVGMLLLSLRDLFQENAFGGWTRCGFGKVRVNQIKIAYDDQDLAWSD</Hsp_hseq>
+      <Hsp_midline>G     P+  AN   G LRR AA  ++EA+  +   V   +Y  L CGA + +PD    T+ E  + R + Y GLFGGG +++     V + LPV   T         L  +  P   +  +       W         R DDL  ++   +    V+N      A Q  +L   +  K  G +KT V     +E V PG  F F I +   ++  Q G+ LL+L  L +    GG+ R GFG       + ++DD  L  SD</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_135406395.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;gb|OZB34660.1| type IV CRISPR-associated protein Csf2 [Pseudomonas sp. 34-62-33]</Hit_def>
+  <Hit_accession>WP_135406395</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.8265</Hsp_bit-score>
+      <Hsp_score>242</Hsp_score>
+      <Hsp_evalue>4.36443e-19</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>88</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>29</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVG-VPCTGIQREVLFNEAGE----AKHFPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSK--------------TSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>QIEVLIRNITPIFSAAPGS--YYVSLDGTINPPQGASRFPLTRARTMTVVAETGDGVAKAVPLPIVPGNTMRNLLRRTMLKDVIEPALRDKSAQLSIGAYATAYAGNSSGNPDGVPSSFDEIVTMRAHPFLGLFGGGPRMLQGRLMVDSLYPIHQFSQRIIGS---DYINDSIKGGITEIVW-TRRNDPILQLGSPDDAA-VIEGGAQAANDWITSLLATTKAKKGKAAKQADEAAESSDDNGRGLKAFNAHEVVIAGVKWLWRINVD-RPSEAQIGLILLALNKLANQRIAGGHAKD-YGRFVIEDVIL</Hsp_hseq>
+      <Hsp_midline>+    IR  +P+  AAPGS  +  +   T+   Q     P T  +   +  E G+    A   P++  N +   LRR   + ++E A+R +  ++S+  Y     G  +GNPDG   +  E    R  P+ GLFGGGP+M++  L V++  P+H  +   +GS    + +   +G     VW  RRND +  L +   AA V+E      N    ++L     +KG +                 +K ++A E V  G  + + I +    S+AQ GL LL L+ LA     GG+ ++ +GRF  +D IL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>ref|WP_073937550.1|</Hit_id>
+  <Hit_def>MULTISPECIES: type IV CRISPR-associated protein Csf2 [Pseudomonas]</Hit_def>
+  <Hit_accession>WP_073937550</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>5.98272e-19</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>86</Hsp_identity>
+      <Hsp_positive>143</Hsp_positive>
+      <Hsp_gaps>27</Hsp_gaps>
+      <Hsp_align-len>309</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVG-VPCTGIQREVLFNEAGE----AKHFPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDL------RDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTS-------VKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>QIEVLIRNITPIFSAAPGS--YYVSLDGTINPPQGASRFPLTRARTMTVVAETGDGVAKAVPLPIVPGNTMRNLLRRTMLKDVIEPALRDKSAQLSIGAYATAYAGNSSGNPDGVPSSFDEIVTMRAHPFLGLFGGGPRMLQGRLMVDSLYPIHQFSQRIIGT---DYINDSIKGGITEIVW-TRRNDPILQLGSPDDAVVIEGGAQAANDWITSLLATTKAKKGKAAKQADEAAESSDDNGRGLKAFNAHEVVIAGVKWLWRINVD-RPSEAQIGLILLALNKLANQRIAGGHAKD-YGRFVIEDVIL</Hsp_hseq>
+      <Hsp_midline>+    IR  +P+  AAPGS  +  +   T+   Q     P T  +   +  E G+    A   P++  N +   LRR   + ++E A+R +  ++S+  Y     G  +GNPDG   +  E    R  P+ GLFGGGP+M++  L V++  P+H  +   +G+    + +   +G     VW  RRND +       D V I   A+   ++     A  +A  G+  ++   +  S       +K ++A E V  G  + + I +    S+AQ GL LL L+ LA     GG+ ++ +GRF  +D IL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|WP_020308258.1|</Hit_id>
+  <Hit_def>MULTISPECIES: type IV CRISPR-associated protein Csf2 [Pseudomonas] &gt;gb|EPL60780.1| CRISPR-associated protein, Csf2 family [Pseudomonas stutzeri B1SMN1] &gt;dbj|BAW26657.1| CRISPR-associated protein, Csf2 family [Pseudomonas putida]</Hit_def>
+  <Hit_accession>WP_020308258</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.2857</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>1.53883e-18</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>87</Hsp_identity>
+      <Hsp_positive>141</Hsp_positive>
+      <Hsp_gaps>29</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVG-VPCTGIQREVLFNEAGEAKH----FPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSK--------------TSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>QIEVLIRNITPIFSAAPGS--YYVSLDGTINPPQGASRFPLTRARTMTVVAETGDGVAKGVPLPIVPGNTMRNLLRRTMLKDVIEPALRDKSAQLSIGAYATAYAGNSSGNPDGVPSSFDEIVTMRAHPFLGLFGGGPRMLQGRLMVDSLYPIHQFSQRIIGS---DYINDSIKGGITEIVW-TRRNDPILQLGSPDDAA-VIEGGAQAANDWITSLLATTKAKKGKAAKQADEAAESSDDNGRGLKAFNAHEVVIAGVKWLWRINVD-RPSEAQIGLILLALNKLANQRIAGGHAKD-YGRFVIEDVIL</Hsp_hseq>
+      <Hsp_midline>+    IR  +P+  AAPGS  +  +   T+   Q     P T  +   +  E G+        P++  N +   LRR   + ++E A+R +  ++S+  Y     G  +GNPDG   +  E    R  P+ GLFGGGP+M++  L V++  P+H  +   +GS    + +   +G     VW  RRND +  L +   AA V+E      N    ++L     +KG +                 +K ++A E V  G  + + I +    S+AQ GL LL L+ LA     GG+ ++ +GRF  +D IL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|WP_092942664.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Acidovorax wautersii] &gt;emb|SFF33141.1| CRISPR type IV/AFERR-associated protein Csf2 [Acidovorax wautersii]</Hit_def>
+  <Hit_accession>WP_092942664</Hit_accession>
+  <Hit_len>382</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>4.25173e-18</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>299</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>326</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>93</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>KRFSAFIRTRSPLHIAAPGSMRFDPATGKTVY----GGQSVGV----PCTGIQREVLFNEAG-EAK------HFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRND----DLRDLVNIHQAAEVVENFEA---------EFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGK</Hsp_qseq>
+      <Hsp_hseq>RRFCVDIRTVSPMNIMAMSKGTFLPERNKIVRYKTSGGSECGLTITTPIPGIYATARSDEAGAEAEVRSGVVQMPIIPSSTITGGLRRAACSLIEDSLVERKLNVSVAAFNTLSSGSATATLNAATQVT-TIKAAALHPFFGLFGGTSFALSSRMVVADAVPVCEEAMGMSLLPSDQPAMLVLPSDMLMPVQIIRKNDAMGKDAQRLIELVGEAEITQYWVSQSEQAVKRKESKAAAVAALAAGESVEKGKKESLQTATAIEAVMPNLNFVLSFEVN-AFSEAQFGLFLMSLQRLLRKGQFGGREARGFGRYQVVSASIASQNDK</Hsp_hseq>
+      <Hsp_midline>+RF   IRT SP++I A     F P   K V     GG   G+    P  GI      +EAG EA+        P+I ++ I+G LRR A  +I +++  R   VS+A +N L  G+ T   +         +     P+FGLFGG    +   + V +A+PV  +        +   A      D    V   R+ND    D + L+ +   AE+ + + +         E  A   A L   +  +   K S++T +A+E V P   F  S  +  A S+AQ GLFL++L  L    + GG    GFGR+    A + + + K</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>4.25173e-18</Hsp_evalue>
+      <Hsp_query-from>3</Hsp_query-from>
+      <Hsp_query-to>299</Hsp_query-to>
+      <Hsp_hit-from>4</Hsp_hit-from>
+      <Hsp_hit-to>326</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>93</Hsp_identity>
+      <Hsp_positive>142</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>325</Hsp_align-len>
+      <Hsp_qseq>KRFSAFIRTRSPLHIAAPGSMRFDPATGKTVY----GGQSVGV----PCTGIQREVLFNEAG-EAK------HFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRND----DLRDLVNIHQAAEVVENFEA---------EFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGK</Hsp_qseq>
+      <Hsp_hseq>RRFCVDIRTVSPMNIMAMSKGTFLPERNKIVRYKTSGGSECGLTITTPIPGIYATARSDEAGAEAEVRSGVVQMPIIPSSTITGGLRRAACSLIEDSLVERKLNVSVAAFNTLSSGSATATLNAATQVT-TIKAAALHPFFGLFGGTSFALSSRMVVADAVPVCEEAMGMSLLPSDQPAMLVLPSDMLMPVQIIRKNDAMGKDAQRLIELVGEAEITQYWVSQSEQAVKRKESKAAAVAALAAGESVEKGKKESLQTATAIEAVMPNLNFVLSFEVN-AFSEAQFGLFLMSLQRLLRKGQFGGREARGFGRYQVVSASIASQNDK</Hsp_hseq>
+      <Hsp_midline>+RF   IRT SP++I A     F P   K V     GG   G+    P  GI      +EAG EA+        P+I ++ I+G LRR A  +I +++  R   VS+A +N L  G+ T   +         +     P+FGLFGG    +   + V +A+PV  +        +   A      D    V   R+ND    D + L+ +   AE+ + + +         E  A   A L   +  +   K S++T +A+E V P   F  S  +  A S+AQ GLFL++L  L    + GG    GFGR+    A + + + K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|WP_128668219.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;gb|RUE86370.1| type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_128668219</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>3.15098e-16</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>305</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>84</Hsp_identity>
+      <Hsp_positive>137</Hsp_positive>
+      <Hsp_gaps>50</Hsp_gaps>
+      <Hsp_align-len>317</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHIAAPGS---------------MRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAA--------------EVVENFEAEFNARQQAILGEVDREKGSSKT--SVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>IRNITPIFSAAPGSNYVTIDGTINPPMGASRFPLVRTRMMYVAADVG---DGVIKSVPLQ---------VVPGNTMRSLLRRTMLKHVIEPALVEKGNKLSIGAYATAYAGNATGNPDGVPSSFDEIATMRAHPFIGLFGGGPRMLEGRLMVDSLYPIHTNAERILGA---GYENELMSGPITQVVWA-RRMDPVLNLGSSEDVAVIDGGAVAANGWIQDLLANSKAAASKKKKPAADEDDSDVVAEENGRGLKAFNAHEVVIPGVKWVWRINLD-RPTDAQVGLVLLALNKMTNERIAGGHSKD-YGRFVIDGVSL</Hsp_hseq>
+      <Hsp_midline>IR  +P+  AAPGS                RF     + +Y    VG    G+ + V            V+  N +   LRR   + ++E A+  +G K+S+  Y     G  TGNPDG   +  E    R  P+ GLFGGGP+M+   L V++  P+H +    LG+    + +    G     VW  RR D + +L +    A              +++ N +A  + +++    E D +  + +    +K ++A E V PG  + + I +    +DAQ GL LL L+ +      GG+ ++ +GRF  D   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>ref|WP_023100586.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;gb|ERV23971.1| CRISPR type aferr-associated protein csf2 [Pseudomonas aeruginosa BL14] &gt;gb|ERV69444.1| CRISPR type aferr-associated protein csf2 [Pseudomonas aeruginosa BWHPSA028] &gt;gb|ETU71869.1| CRISPR type aferr-associated protein csf2 [Pseudomonas aeruginosa PS42] &gt;gb|AKG03093.1| hypothetical protein YH69_34155 [Pseudomonas aeruginosa] &gt;gb|AXZ89114.1| type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_023100586</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.3521</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>4.25037e-16</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>349</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDD------LRDLVNIHQAAEVVENFEAEFNARQQAIL--GEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATAL</Hsp_qseq>
+      <Hsp_hseq>KIEVILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGTDNDEDAPTVGVVPIVPANTLRHTLRSRMLNQILDQIRGKAT-LSIGAYTALSAGSASGNPDGVKATFAEIKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLG----PYEELATNSKNRLLEVAFTRRVDPVLGQPLDQELIVGGAAAITEYSNQQANIRRNKKLKGGESAADEERQARGLNSFAAHEYVIPGVNWLWRISVR-NPTDAQRGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DG---SPAWDGQTLDSTNEHVASWLSSLADSLDEIEAGSI</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      IL+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG    P+        +      F R  D      L   + +  AA + E    + N R+   L  GE   ++      + +++A E+V PG  + + I ++   +DAQ G+ L  L  L   E++GG  R  +GRF     ++   DG     A+    L+  +  VA  LS+   +  +I+A ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>gb|RCI72788.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>RCI72788</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.3521</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>4.25037e-16</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>349</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDD------LRDLVNIHQAAEVVENFEAEFNARQQAIL--GEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATAL</Hsp_qseq>
+      <Hsp_hseq>KIEGILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGTDNDEDAPTVGVVPIVPANTLRHTLRSRMLNQILDQIRGKAT-LSIGAYTALSAGSASGNPDGVKATFAEIKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLG----PYEELATNSKNRLLEVAFTRRVDPVLGQPLDQELIVGGAAAITEYSNQQANIRRNKKLKGGESAADEERQARGLNSFAAHEYVIPGVNWLWRISVR-NPTDAQRGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DG---SPAWDGQTLDSTNEHVASWLSSLADSLDEIEAGSI</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      IL+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG    P+        +      F R  D      L   + +  AA + E    + N R+   L  GE   ++      + +++A E+V PG  + + I ++   +DAQ G+ L  L  L   E++GG  R  +GRF     ++   DG     A+    L+  +  VA  LS+   +  +I+A ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|WP_088922487.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;gb|ASJ88790.1| CRISPR type AFERR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_088922487</Hit_accession>
+  <Hit_len>348</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.3521</Hsp_bit-score>
+      <Hsp_score>220</Hsp_score>
+      <Hsp_evalue>4.29605e-16</Hsp_evalue>
+      <Hsp_query-from>20</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>33</Hsp_hit-from>
+      <Hsp_hit-to>305</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>131</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>292</Hsp_align-len>
+      <Hsp_qseq>PGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQA--------------AEVVENFEAEFNARQQAILGEVDREKGSSKTS---VKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>PGVSRFPLVRTRMMYVAADVG---DGVIKSVPLQ---------IVPGNTMRSLLRRTMLKHVIEPALVEKGNKLSIGAYATAYSGNATGNPDGVPSSFDEIATMRAHPFIGLFGGGPRMLEGRLMVDSLYPIHTNAERILGA---GYENEMMSGPITQVVWA-RRMDPILNLGSSEDVEVINGGAVAANGWIQDLLANSKAAASKKKKAAADE-DESDGAAEENGRGLKAFNAHEVVIPGLKWVWRISLD-RPTDAQVGLVLLALNKMTNERIAGGHSKD-YGRFVIDGVSL</Hsp_hseq>
+      <Hsp_midline>PG  RF     + +Y    VG    G+ + V            ++  N +   LRR   + ++E A+  +G K+S+  Y     G  TGNPDG   +  E    R  P+ GLFGGGP+M+   L V++  P+H +    LG+    + +    G     VW  RR D + +L +                   +++ N +A  + +++A   E D   G+++ +   +K ++A E V PG  + + I +    +DAQ GL LL L+ +      GG+ ++ +GRF  D   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|WP_011254653.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Aromatoleum aromaticum] &gt;emb|CAI10526.1| hypothetical protein p1B375 [Aromatoleum aromaticum EbN1]</Hit_def>
+  <Hit_accession>WP_011254653</Hit_accession>
+  <Hit_len>382</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>4.36629e-16</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>287</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPV-HADTTANL-GSMAHPHAHRH----------AQGDHF-----------TDVWGFRRNDDLRDLVN------IHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFS</Hsp_qseq>
+      <Hsp_hseq>PYFPANDLRGRLRRKAAALVMEALAAKGDKVPVELYAGLCAGASGAKPE-NSVTIEEIKRASKHVYMGLFGGGTRMLRSRFIVSDAVPIMNATVKAGLVPALFGPYENRALPLSNGSEAVESGDGYKLTEVRHIVRVDDVTRVMRSDELRAYVQDAENAVAQWQANVLQNRSDRKNQGEQKTTGE--ETASIKKSDLANVVSVQSIIAGTELYVRFDLQDTTTQAQRGLLLCALRDLINEQALGGWIRNGFGKFT</Hsp_hseq>
+      <Hsp_midline>P   AN++ GRLRR AA +++EA+  +G KV + +Y  L  GA    P+   +T+ E ++     Y GLFGGG +M+R    V +A+P+ +A   A L  ++  P+ +R             GD +            DV    R+D+LR  V           A V++N     N  +Q   GE        K+ +    +++ +  GT       ++   + AQ GL L  L  L   + LGG+ RNGFG+F+</Hsp_midline>
+    </Hsp>
+    <Hsp>
+      <Hsp_num>2</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>4.36629e-16</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>287</Hsp_query-to>
+      <Hsp_hit-from>61</Hsp_hit-from>
+      <Hsp_hit-to>312</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>74</Hsp_identity>
+      <Hsp_positive>117</Hsp_positive>
+      <Hsp_gaps>32</Hsp_gaps>
+      <Hsp_align-len>255</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPV-HADTTANL-GSMAHPHAHRH----------AQGDHF-----------TDVWGFRRNDDLRDLVN------IHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFS</Hsp_qseq>
+      <Hsp_hseq>PYFPANDLRGRLRRKAAALVMEALAAKGDKVPVELYAGLCAGASGAKPE-NSVTIEEIKRASKHVYMGLFGGGTRMLRSRFIVSDAVPIMNATVKAGLVPALFGPYENRALPLSNGSEAVESGDGYKLTEVRHIVRVDDVTRVMRSDELRAYVQDAENAVAQWQANVLQNRSDRKNQGEQKTTGE--ETASIKKSDLANVVSVQSIIAGTELYVRFDLQDTTTQAQRGLLLCALRDLINEQALGGWIRNGFGKFT</Hsp_hseq>
+      <Hsp_midline>P   AN++ GRLRR AA +++EA+  +G KV + +Y  L  GA    P+   +T+ E ++     Y GLFGGG +M+R    V +A+P+ +A   A L  ++  P+ +R             GD +            DV    R+D+LR  V           A V++N     N  +Q   GE        K+ +    +++ +  GT       ++   + AQ GL L  L  L   + LGG+ RNGFG+F+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|WP_034032558.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_034032558</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.9669</Hsp_bit-score>
+      <Hsp_score>219</Hsp_score>
+      <Hsp_evalue>5.79398e-16</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>349</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDD------LRDLVNIHQAAEVVENFEAEFNARQQAIL--GEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATAL</Hsp_qseq>
+      <Hsp_hseq>KIEVILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGTDNDEDAPTVGVVPIVPANTLRHTLRSRMLNQILDQIRGKAT-LSIGAYTALSAGSASGNPDGVKATFAEIKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLG----PYEKLATNSKNRLLEVAFTRRVDPVLGQPLDQELIVGGAAAITEYSNQQANIRRNKKLKGGESAADEERQARGLNSFAAHEYVIPGVNWLWRISVR-NPTDAQRGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DG---SPAWDGQTLDSTNEHVASWLSSLADSLDEIEAGSI</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      IL+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG    P+        +      F R  D      L   + +  AA + E    + N R+   L  GE   ++      + +++A E+V PG  + + I ++   +DAQ G+ L  L  L   E++GG  R  +GRF     ++   DG     A+    L+  +  VA  LS+   +  +I+A ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|WP_086230849.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;gb|OTH77722.1| type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_086230849</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.9669</Hsp_bit-score>
+      <Hsp_score>219</Hsp_score>
+      <Hsp_evalue>5.79398e-16</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>336</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>331</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>91</Hsp_identity>
+      <Hsp_positive>150</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>349</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDD------LRDLVNIHQAAEVVENFEAEFNARQQAIL--GEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATAL</Hsp_qseq>
+      <Hsp_hseq>KIEIILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGTDNDEDAPTVGVVPIVPANTLRHTLRSRMLNQILDQIRGKAT-LSIGAYTALSAGSASGNPDGVKATFAEIKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLG----PYEELATNSKNRLLEVAFTRRVDPVLGQPLDQELIVGGAAAITEYSNQQANIRRNKKLKGGESAADEERQARGLNSFAAHEYVIPGVNWLWRISVR-NPTDAQRGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DG---SPAWDGQTLDSTNEHVASWLSSLADSLDEIEAGSI</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      IL+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG    P+        +      F R  D      L   + +  AA + E    + N R+   L  GE   ++      + +++A E+V PG  + + I ++   +DAQ G+ L  L  L   E++GG  R  +GRF     ++   DG     A+    L+  +  VA  LS+   +  +I+A ++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_050412963.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;emb|CRN66744.1| CRISPR type AFERR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_050412963</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.0409</Hsp_bit-score>
+      <Hsp_score>214</Hsp_score>
+      <Hsp_evalue>2.71625e-15</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>293</Hsp_query-to>
+      <Hsp_hit-from>7</Hsp_hit-from>
+      <Hsp_hit-to>302</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>81</Hsp_identity>
+      <Hsp_positive>138</Hsp_positive>
+      <Hsp_gaps>39</Hsp_gaps>
+      <Hsp_align-len>310</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHIAAPGSM------RFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGE----AKHFPVIAANNISGRLRRHAARIILE-AIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKG--------------SSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAIL</Hsp_qseq>
+      <Hsp_hseq>IRNITPIFSAAPGSNYVSLEGTINPPLGSSRF-------PLTRARTMSVVADTGDGVAKAVSLPIVPGNTMRNLLRRTMLKEVIEPALCEKAAQLSIGAYATAYAGNSSGNPDGMPSSFDEIVTMRSHPFLGLFGGGPRMLQGRLMVDSLYPIHQFSERIIGT---DYINDSIKGSITEIVW-TRRNDPVLQLGGANDVA-VIDGGTQAANDWITSLLASNKEKKGKAGKQTEDSAESADSNGRGLKAFNAHEVVIGGVKWLWRINVD-RPSGAQVGLILLAINKLANQRIAGGHAKD-YGRFAIEGVFL</Hsp_hseq>
+      <Hsp_midline>IR  +P+  AAPGS         +P  G + +       P T  +   +  + G+    A   P++  N +   LRR   + ++E A+  +  ++S+  Y     G  +GNPDG   +  E    R  P+ GLFGGGP+M++  L V++  P+H  +   +G+    + +   +G     VW  RRND +  L   +  A V++      N    ++L     +KG              S+   +K ++A E V  G  + + I +    S AQ GL LL ++ LA     GG+ ++ +GRF+ +   L</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|WP_093971896.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pusillimonas sp. T2] &gt;gb|OXR47891.1| type IV CRISPR-associated protein Csf2 [Pusillimonas sp. T2]</Hit_def>
+  <Hit_accession>WP_093971896</Hit_accession>
+  <Hit_len>408</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.4261</Hsp_bit-score>
+      <Hsp_score>215</Hsp_score>
+      <Hsp_evalue>3.29735e-15</Hsp_evalue>
+      <Hsp_query-from>56</Hsp_query-from>
+      <Hsp_query-to>298</Hsp_query-to>
+      <Hsp_hit-from>62</Hsp_hit-from>
+      <Hsp_hit-to>335</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>116</Hsp_positive>
+      <Hsp_gaps>35</Hsp_gaps>
+      <Hsp_align-len>276</Hsp_align-len>
+      <Hsp_qseq>GEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAH------------RHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGE------VDREKGSS--------------KTSVKTYSALEFVRPGTLFDFSI-LMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDG</Hsp_qseq>
+      <Hsp_hseq>GQLQYIPYYPANGFRGALRRKAMGRLLKHFTETEGPLPGDLYLGLSCGASSGSPDSTARSVEELLRARANVYMGLFGGGARLHPSSYRVSDMLPIIA-STIKTGMVPSRFAEYVKSRTSESGEKYYVQSKQLVSLRNSIRVDDLFRVMNPGQILSSVADPQATVAKYQSAVLGNRADRKAEDESKKSEPSNRARRKADDELRKSDVSHMLTIETIAPGVPFHFRIDLDDSVVDDAKIGLILLSLSDLFVANQFGGWGRCGFGKVRV-ESILINGDG</Hsp_hseq>
+      <Hsp_midline>G+ ++ P   AN   G LRR A   +L+        +   +Y  L CGA +G+PD    ++ E  + R + Y GLFGGG ++      V + LP+ A +T   G +    A              + Q      +    R DDL  ++N  Q    V + +A     Q A+LG        D  K S               K+ V     +E + PG  F F I L    + DA+ GL LL+L  L    + GG+GR GFG+    ++IL+  DG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|WP_115284752.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;emb|SUC99336.1| CRISPR type AFERR-associated protein Csf2 [Pseudomonas aeruginosa] &gt;emb|VFT18710.1| CRISPR type AFERR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_115284752</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.7297</Hsp_bit-score>
+      <Hsp_score>208</Hsp_score>
+      <Hsp_evalue>1.71881e-14</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>328</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>148</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQ-----AAEVVE--NFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAIS-----DAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDA</Hsp_qseq>
+      <Hsp_hseq>KIEVILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGADNDEDIPTVGTVPIVPANTLRHTLRSRMLNHVLDQIRGKAT-LSIGAYTALSSGSTSGNPDGVKATFAELKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLGPYEELATNSKTR---LLEVVFTRRVDPVLGQQLDHELIDGGAAAITQYSNQQADIRRNKKPKGSEAVADEDKQARGLNSFTAHEHVIPG------VNWLWRISARNPTNAQCGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DGK---PAWNGHALDSTNEQVATWLSSLADSLDEIEA</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      +L+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG       +   +     +V   RR D +      H+     AA + +  N +A+    ++    E   ++      + +++A E V PG      +   W IS     +AQ G+ L  L  L   E++GG  R  +GRF     ++   DGK    A++   L+  +  VA  LS+   +  +I+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_079863219.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas aeruginosa]</Hit_def>
+  <Hit_accession>WP_079863219</Hit_accession>
+  <Hit_len>347</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>83.9593</Hsp_bit-score>
+      <Hsp_score>206</Hsp_score>
+      <Hsp_evalue>3.1721e-14</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>333</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>328</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>89</Hsp_identity>
+      <Hsp_positive>149</Hsp_positive>
+      <Hsp_gaps>43</Hsp_gaps>
+      <Hsp_align-len>350</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKH--------FPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDL------RDLVNIHQAA-EVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAIS-----DAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFDDAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDA</Hsp_qseq>
+      <Hsp_hseq>KIEVILQNLTPFHSSVPGDSRVD-LQGRWA----SEGFPCIRT-RTMRFARIGADNDEDIPTVGTVPIVPANTLRHTLRSRMLNHVLDQIRGKAT-LSIGAYTALSSGSTSGNPDGVKATFAELKTTAQHPFLGLWGGGPRMMEGKIKVDSAYAITQDYLPLLGPYEELATNSKTR---LLEVVFTRRVDPVLGQQLDQELIDGGAAAITQYSNQQADIRRNKKPKGSEAVADEDKQARGLNSFTAHEHVIPG------VNWLWRISARNPTNAQRGMILNALQEL-HGEQVGGMSRLEYGRFHIKSILV---DGK---PAWNGHALDSTNEQVATWLSSLADSLDEIEA</Hsp_hseq>
+      <Hsp_midline>+    ++  +P H + PG  R D   G+      S G PC    R + F   G             P++ AN +   LR      +L+ IR +   +S+  Y  L  G+ +GNPDG   T  E +     P+ GL+GGGP+MM   ++V++A  +  D    LG       +   +     +V   RR D +      ++L++   AA     N +A+    ++    E   ++      + +++A E V PG      +   W IS     +AQ G+ L  L  L   E++GG  R  +GRF     ++   DGK    A++   L+  +  VA  LS+   +  +I+A</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|WP_026300949.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2, partial [Thioalkalivibrio sp. ALE23]</Hit_def>
+  <Hit_accession>WP_026300949</Hit_accession>
+  <Hit_len>296</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>81.2629</Hsp_bit-score>
+      <Hsp_score>199</Hsp_score>
+      <Hsp_evalue>1.57359e-13</Hsp_evalue>
+      <Hsp_query-from>11</Hsp_query-from>
+      <Hsp_query-to>277</Hsp_query-to>
+      <Hsp_hit-from>10</Hsp_hit-from>
+      <Hsp_hit-to>296</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>78</Hsp_identity>
+      <Hsp_positive>126</Hsp_positive>
+      <Hsp_gaps>42</Hsp_gaps>
+      <Hsp_align-len>298</Hsp_align-len>
+      <Hsp_qseq>TRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEA-----KHFPVIAANNISGRLRRHAARIILEAIRLRGQKV-SLAVYNVLQCGAVTGNP-DGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANL-------GSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFE---AEFNARQQAILGEVDREKGSSKTS-------------VKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAET-ERLGG</Hsp_qseq>
+      <Hsp_hseq>TTSPLHIT-------DASQDRRIESGSQT-MPMTSTQTLTVVGSADEGGKTPVRRVPVIPSNSLRGRIRRAGVDVLMDAIRDRGEPAPNLPTYHTLCAGTADGRPAKGAAVNLDRRHHQMEHPFIGLFGGGPEMVESRFMTDTAWALVPETVENLDVPASCENDVVDPMGRENRL--PLTQTIFFRRIDDVLSFSD-PQASDRIENYREAAQEWLDSQRRDTSNGDGEENQHRDSSNGGGEENQRGPRIQGWNAMEVVLAGLPFSFRVGTKTNSNPVQDGLLLASMERFVERYPQLGG</Hsp_hseq>
+      <Hsp_midline>T SPLHI        D +  + +  G    +P T  Q   +   A E      +  PVI +N++ GR+RR    ++++AIR RG+   +L  Y+ L  G   G P  G  + L       + P+ GLFGGGP+M+      + A  +  +T  NL         +  P    +      T    FRR DD+    +  QA++ +EN+     E+   Q+      D E+   + S             ++ ++A+E V  G  F F +  K   +  Q GL L +++   E   +LGG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|WP_152740544.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Pseudomonas sp. MWU12-2323] &gt;gb|MPQ69348.1| type IV CRISPR-associated protein Csf2 [Pseudomonas sp. MWU12-2323]</Hit_def>
+  <Hit_accession>WP_152740544</Hit_accession>
+  <Hit_len>355</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.337</Hsp_bit-score>
+      <Hsp_score>194</Hsp_score>
+      <Hsp_evalue>1.30379e-12</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>284</Hsp_query-to>
+      <Hsp_hit-from>2</Hsp_hit-from>
+      <Hsp_hit-to>295</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>79</Hsp_identity>
+      <Hsp_positive>129</Hsp_positive>
+      <Hsp_gaps>37</Hsp_gaps>
+      <Hsp_align-len>306</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHF-PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAE-----FNARQQAILGEVDREKGSSKT-------------------SVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFG</Hsp_qseq>
+      <Hsp_hseq>KIEVILRNRSPLSSAAPGQKTISIDNVLNVPNG----FPLTAMRTMAIPVDGQDKPAFVPVIPGNSIRNVLRRSMLSLVLDQVRGKAT-MSIGAYAAACSGNASGNPEGVPPLFDELLSVRNHVFLGLFGGGPRMIRGRLSVDTLYPLHASAQRVLGA---GYEDRYVAGRLTQYIWMNRKDPITR--IASEEESSVITDGRAEITSWALNQINSSIRGAEKRKTKTAKSDKASDDAGVDAATAAKEDRGLNTLNAHEVTLPGIDWLLSIRIE-KPTPAQVGLVLKGIEGL-NSMTIGGGHSKGYG</Hsp_hseq>
+      <Hsp_midline>+    +R RSPL  AAPG           V  G     P T ++   +  +  +   F PVI  N+I   LRR    ++L+ +R +   +S+  Y     G  +GNP+G      E    R+  + GLFGGGP+M+R  L V+   P+HA     LG+    +  R+  G     +W  R++   R  +   + + V+ +  AE      N    +I G   R+  ++K+                    + T +A E   PG  +  SI ++   + AQ GL L  ++ L  +  +GG    G+G</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>gb|APE04166.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Alteromonas mediterranea]</Hit_def>
+  <Hit_accession>APE04166</Hit_accession>
+  <Hit_len>369</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.1814</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>3.54961e-12</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>48</Hsp_hit-from>
+      <Hsp_hit-to>363</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHA----------------HRHAQGDHFTDVWGFRRNDDL---RDLVNIHQAAE-----VVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFD----DAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRG</Hsp_qseq>
+      <Hsp_hseq>PYFPANGLRGRFRRYIAKRAIDAMVSTQGQLSLETHIALQSGSSHTQPDKANSSIEELVRASGHVYMGVFGGGSRMLESRYAVSDIHPILNSTVEN-GVVQAPLALVQEIIEKQNFGSDGDVKQLQPYQIIERRSFIKVDDISRGNNIVDVTQNVEGGESAIADYLEGVSKNQQERKAQKSKGEDVAKKLTLSNILGVESICAGVDMHFRIDVSPDLTEAQVGALLVALEDLANVNYLGGWGRTGFGRFKISAVHADLPALDISETIIDELYQGEHFSFDNTSLSSLTAEAHEAIQAIDKEEMVDYFTP-REVAIKRG</Hsp_hseq>
+      <Hsp_midline>P   AN + GR RR+ A+  ++A+     ++SL  +  LQ G+    PD  + ++ E  +     Y G+FGGG +M+     V +  P+   T  N G +  P A                 +  Q     +   F + DD+    ++V++ Q  E     + +  E     +Q+    +   E  + K ++     +E +  G    F I +   +++AQ G  L+ L+ LA    LGG+GR GFGRF       D   L        + +     + ++  ++   +  H A Q ID   + +   P R  A  RG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>gb|MAB91400.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Planctomycetes bacterium] &gt;tpg|HCV05476.1| type IV CRISPR-associated protein Csf2 [Pseudoalteromonas sp.]</Hit_def>
+  <Hit_accession>MAB91400</Hit_accession>
+  <Hit_len>371</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.1814</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>3.59574e-12</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>365</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>82</Hsp_identity>
+      <Hsp_positive>133</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHA----------------HRHAQGDHFTDVWGFRRNDDL---RDLVNIHQAAE-----VVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFD--DAILLTSDGKEH-QDAFHDGRLNREDPLVAHTLSA-WHAASQKIDATALANLIAPDRGAAPDRG</Hsp_qseq>
+      <Hsp_hseq>PYFPANGLRGRFRRYIAKRAIDAMVSTQGQLSLETHIALQSGSSHTQPDKANSSIEELVRASEHIYMGVFGGGSRMLESRYAVSDIHPILNSTVEN-GVVQAPLALVQEIIEKQNFGIDGDVKQLQPYQIVERRSFIKVDDISRGNNIVDVTQNVEGGESAIADYLEGVSKNQQERKTQKSKGEDVAKKLTLGNILGVESICAGVDMHFRIDVSPDLTEAQVGALLVALEDLANVNYLGGWGRTGFGRFKISAIHADLPALDISETIVDELYQGEHFSFDYTSLSSLTAEAHEAIQAIDKEEMIDYFTP-REVAIKRG</Hsp_hseq>
+      <Hsp_midline>P   AN + GR RR+ A+  ++A+     ++SL  +  LQ G+    PD  + ++ E  +  +  Y G+FGGG +M+     V +  P+   T  N G +  P A                 +  Q     +   F + DD+    ++V++ Q  E     + +  E     +Q+    +   E  + K ++     +E +  G    F I +   +++AQ G  L+ L+ LA    LGG+GR GFGRF      A L   D  E   D  + G     D     +L+A  H A Q ID   + +   P R  A  RG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|WP_081367604.1|</Hit_id>
+  <Hit_def>type IV CRISPR-associated protein Csf2 [Alteromonas mediterranea]</Hit_def>
+  <Hit_accession>WP_081367604</Hit_accession>
+  <Hit_len>371</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>78.1814</Hsp_bit-score>
+      <Hsp_score>191</Hsp_score>
+      <Hsp_evalue>3.59574e-12</Hsp_evalue>
+      <Hsp_query-from>62</Hsp_query-from>
+      <Hsp_query-to>351</Hsp_query-to>
+      <Hsp_hit-from>50</Hsp_hit-from>
+      <Hsp_hit-to>365</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>75</Hsp_identity>
+      <Hsp_positive>130</Hsp_positive>
+      <Hsp_gaps>30</Hsp_gaps>
+      <Hsp_align-len>318</Hsp_align-len>
+      <Hsp_qseq>PVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHA----------------HRHAQGDHFTDVWGFRRNDDL---RDLVNIHQAAE-----VVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFGRFSFD----DAILLTSDGKEHQDAFHDGRLNREDPLVAHTLSAWHAASQKIDATALANLIAPDRGAAPDRG</Hsp_qseq>
+      <Hsp_hseq>PYFPANGLRGRFRRYIAKRAIDAMVSTQGQLSLETHIALQSGSSHTQPDKANSSIEELVRASGHVYMGVFGGGSRMLESRYAVSDIHPILNSTVEN-GVVQAPLALVQEIIEKQNFGSDGDVKQLQPYQIIERRSFIKVDDISRGNNIVDVTQNVEGGESAIADYLEGVSKNQQERKAQKSKGEDVAKKLTLSNILGVESICAGVDMHFRIDVSPDLTEAQVGALLVALEDLANVNYLGGWGRTGFGRFKISAVHADLPALDISETIIDELYQGEHFSFDNTSLSSLTAEAHEAIQAIDKEEMVDYFTP-REVAIKRG</Hsp_hseq>
+      <Hsp_midline>P   AN + GR RR+ A+  ++A+     ++SL  +  LQ G+    PD  + ++ E  +     Y G+FGGG +M+     V +  P+   T  N G +  P A                 +  Q     +   F + DD+    ++V++ Q  E     + +  E     +Q+    +   E  + K ++     +E +  G    F I +   +++AQ G  L+ L+ LA    LGG+GR GFGRF       D   L        + +     + ++  ++   +  H A Q ID   + +   P R  A  RG</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_092942380.1|</Hit_id>
+  <Hit_def>hypothetical protein [Acidovorax wautersii] &gt;emb|SFF31130.1| CRISPR type IV/AFERR-associated protein Csf2 [Acidovorax wautersii]</Hit_def>
+  <Hit_accession>WP_092942380</Hit_accession>
+  <Hit_len>334</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>9.12944e-12</Hsp_evalue>
+      <Hsp_query-from>9</Hsp_query-from>
+      <Hsp_query-to>297</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>283</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>76</Hsp_identity>
+      <Hsp_positive>119</Hsp_positive>
+      <Hsp_gaps>25</Hsp_gaps>
+      <Hsp_align-len>295</Hsp_align-len>
+      <Hsp_qseq>IRTRSPLHIAAPGSMRFDPATGKTVYGGQSVGVPCTGIQREVLFNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCG-AVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSMAHPHAHRHAQGDHFTDVWGFRRNDDLRDLVNIHQAAEVVENFEAEFNARQQAILGEVDREKGSSKTSVKTYSALEFVRPGTLFDFSILMKWAISDAQAGLFLLTLDSLAETERLGGYGRNGFG-----RFSFDDAILLTSD</Hsp_qseq>
+      <Hsp_hseq>LTTTSPLHTSA-GSKGLRLQRDGFVSSKDNDGIPVVSTVNMPLTVRGRYYGDVPIFPSSGIVGALRRHASRRVRAALTADGGRMSQPMYYAMQNGHAPAGQLSGGVATLKQYEASRGDLFFGMFGGG-SMRNAARYIQSDLVPVIDQTIDAGLVPEKFADLSPTSSRGIEPW---------QLVSYRVMRKVDDIGRGRDSGVDVDLLDDDQRREAAA--------AYEVITPGTPLYFRTQLAPESTPEQRGLYLLALLDLLETQQLGGRVHLGWGGVMAQRFRYVEGVKIRHD</Hsp_hseq>
+      <Hsp_midline>+ T SPLH +A GS          V    + G+P        L          P+  ++ I G LRRHA+R +  A+   G ++S  +Y  +Q G A  G   G   TL +Y   R D +FG+FGGG  M      +++ L    D T + G +    A          + W          LV+     +V +      +     +L +  R + ++        A E + PGT   F   +    +  Q GL+LL L  L ET++LGG    G+G     RF + + + +  D</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>gb|RMH36420.1|</Hit_id>
+  <Hit_def>hypothetical protein D6694_13930, partial [Gammaproteobacteria bacterium]</Hit_def>
+  <Hit_accession>RMH36420</Hit_accession>
+  <Hit_len>225</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>73.9442</Hsp_bit-score>
+      <Hsp_score>180</Hsp_score>
+      <Hsp_evalue>2.0612e-11</Hsp_evalue>
+      <Hsp_query-from>4</Hsp_query-from>
+      <Hsp_query-to>161</Hsp_query-to>
+      <Hsp_hit-from>12</Hsp_hit-from>
+      <Hsp_hit-to>177</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>53</Hsp_identity>
+      <Hsp_positive>81</Hsp_positive>
+      <Hsp_gaps>12</Hsp_gaps>
+      <Hsp_align-len>168</Hsp_align-len>
+      <Hsp_qseq>RFSAFIRTRSPLHIAAPG-SMRFDPATGKTVYGGQS-VGVPCTGIQREVL--------FNEAGEAKHFPVIAANNISGRLRRHAARIILEAIRLRGQKVSLAVYNVLQCGAVTGNPDGKDMTLGEYRQYRDDPYFGLFGGGPKMMRRCLEVENALPVHADTTANLGSM</Hsp_qseq>
+      <Hsp_hseq>KVSGILTLKSPLHISSPERDFRYMPDTGRIVRGAKGGAGFPCTVTRAETIRTPLAVTETNPLGRVR-LPVMPAQGIKGAIRRSAEEIIRHNLANRGLMPKAATYQAMRTGAVSGRPDSTIPSTDEAKARMEHHFAGLFGGGSQIVPGRFYAKPARVV-ADAYIDLGTV</Hsp_hseq>
+      <Hsp_midline>+ S  +  +SPLHI++P    R+ P TG+ V G +   G PCT  + E +         N  G  +  PV+ A  I G +RR A  II   +  RG     A Y  ++ GAV+G PD    +  E +   +  + GLFGGG +++      + A  V AD   +LG++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>246688014</Statistics_db-num>
+      <Statistics_db-len>88965732044</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>

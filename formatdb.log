@@ -1,0 +1,76 @@
+
+========================[ Dec 14, 2019  1:55 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database temp.fasta
+
+========================[ Dec 14, 2019  1:57 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database temp.fasta
+
+========================[ Dec 14, 2019  1:59 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database temp.fasta
+
+========================[ Dec 14, 2019  2:07 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database temp.fasta
+
+========================[ Dec 14, 2019  2:13 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+Formatted 1 sequences in volume 0
+SUCCESS: formatted database temp.fasta
+
+========================[ Dec 14, 2019  2:15 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+WARNING: [000.000] Cannot add sequence number 1 (lcl|1_temp.fasta) because it has zero-length.
+
+Removed single-volume database temp.fasta
+FATAL ERROR: [001.000] Fatal error when adding sequence to BLAST database.
+
+========================[ Dec 14, 2019  2:18 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "temp.fasta"
+WARNING: [000.000] Cannot add sequence number 1 (lcl|1_temp.fasta) because it has zero-length.
+
+Removed single-volume database temp.fasta
+FATAL ERROR: [001.000] Fatal error when adding sequence to BLAST database.
+
+========================[ Dec 14, 2019  2:45 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "plasmids.fasta"
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database plasmids.fasta
+
+========================[ Dec 15, 2019 11:39 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "plasmids.fasta"
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database plasmids.fasta
+
+========================[ Dec 15, 2019 11:40 AM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "plasmids.fasta"
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database plasmids.fasta
+
+========================[ Dec 16, 2019 12:59 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "plasmids.fasta"
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database plasmids.fasta
+
+========================[ Dec 16, 2019 12:59 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "plasmids.fasta"
+Formatted 12 sequences in volume 0
+SUCCESS: formatted database plasmids.fasta
